@@ -17,14 +17,12 @@ footer{
     background-color: black;
 }
 
-#hometitle{
+.hometitle{
     font-size: 4em;
     text-align: center;
     border:solid thick;
     margin: 1em 1em;
 }
-
-
 
 #abouttitle{
     font-size: 4em;
@@ -40,12 +38,6 @@ footer{
     margin: 1em 1em;
 }
 
-#standorttitle{
-    font-size: 4em;
-    text-align: center;
-    border:solid thick;
-    margin: 1em 1em;
-}
 
 .logo{
     font-size: 2em;
@@ -134,3 +126,9 @@ tr:nth-child(even) {
 .tabellerechts{
     padding-left: 38em;
 }
+
+hr{
+    width: 100%;
+    background-color: black;
+}
+
