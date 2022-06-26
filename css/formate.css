@@ -100,9 +100,37 @@ h2{
 #galerieliste{
     list-style: none;
 }
+
 .galerie{
     width: 35em;
     height: 25em;
 }
 
+.row{
+    margin-left: 2em;
+    margin-right: 2em;
+}
 
+.colums{
+    padding: 2em;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 67em;
+    border: 1px solid rgb(221, 221, 221);
+}
+
+th, td {
+    text-align: left;
+    padding: 1em;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(221, 221, 221);
+}
+
+.tabellerechts{
+    padding-left: 38em;
+}
