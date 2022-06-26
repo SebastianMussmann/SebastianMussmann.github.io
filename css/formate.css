@@ -97,6 +97,12 @@ h2{
     margin-left: 1em;
 }
 
-
+#galerieliste{
+    list-style: none;
+}
+.galerie{
+    width: 35em;
+    height: 25em;
+}
 
 
