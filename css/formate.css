@@ -40,6 +40,13 @@ footer{
     margin: 1em 1em;
 }
 
+#standorttitle{
+    font-size: 4em;
+    text-align: center;
+    border:solid thick;
+    margin: 1em 1em;
+}
+
 .logo{
     font-size: 2em;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -89,5 +96,7 @@ h2{
 .quellen{
     margin-left: 1em;
 }
+
+
 
 
